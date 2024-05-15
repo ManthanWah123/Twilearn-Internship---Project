@@ -8,3 +8,21 @@ Serial NumberNameName of CompanyMar Cap – CroreMarket Capitalization in
 CroresSales Qtr – CroreQuarterly Sale in crores. Find key metrics and factors and
 show the meaningful relationships between attributes.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tableau dashboard link  :-
+
+https://public.tableau.com/views/FDIForeignDirectInvestment_17121725815710/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
